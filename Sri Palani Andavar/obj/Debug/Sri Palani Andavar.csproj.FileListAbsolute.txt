@@ -1,0 +1,11 @@
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\bin\Debug\Sri Palani Andavar.exe.config
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\bin\Debug\Sri Palani Andavar.exe
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\bin\Debug\Sri Palani Andavar.pdb
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\obj\Debug\Sri Palani Andavar.csproj.AssemblyReference.cache
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\obj\Debug\Sri Palani Andavar.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\obj\Debug\Sri_Palani_Andavar.dshbrd.resources
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\obj\Debug\Sri_Palani_Andavar.Properties.Resources.resources
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\obj\Debug\Sri Palani Andavar.csproj.GenerateResource.cache
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\obj\Debug\Sri Palani Andavar.csproj.CoreCompileInputs.cache
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\obj\Debug\Sri Palani Andavar.exe
+C:\Users\PRADEEP\source\repos\Sri Palani Andavar\Sri Palani Andavar\obj\Debug\Sri Palani Andavar.pdb
